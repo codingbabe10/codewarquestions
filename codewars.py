@@ -102,3 +102,6 @@ string_representation = boolean_to_string(boolean_value)
 
 print(f"The string representation is: {string_representation}")
 
+# https://www.codewars.com/kata/551b4501ac0447318f0009cd/train/python
+# I apologize I saw the instrction to put the link the Kata, after completing the 5th 
+#question.
